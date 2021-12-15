@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-﻿[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cyl0424&langs_count=5&layout=compact)](https://github.com/cyl0424)-->
+﻿[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cyl0424&langs_count=5&layout=compact)](https://github.com/cyl0424/cyl0424)-->
 
