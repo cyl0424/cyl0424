@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 
 ![Chu Yulim's GitHub stats](https://github-readme-stats.vercel.app/api?username=cyl0424&show_icons=true&theme=swift&count_private=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cyl0424&layout=compact&theme=swift)](https://github.com/cyl0424/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cyl0424&layout=compact&theme=swift)](https://github.com/cyl0424/github-readme-stats) -->
