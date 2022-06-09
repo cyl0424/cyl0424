@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **cyl0424/cyl0424** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,8 +11,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
-
+## GitHub Stats
 ![Chu Yulim's GitHub stats](https://github-readme-stats.vercel.app/api?username=cyl0424&show_icons=true&theme=swift&count_private=true)
 <br>
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=cyl0424)](https://solved.ac/cyl0424/)
+
+## BOJ
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=cyl0424)](https://solved.ac/cyl0424/)
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cyl0424&layout=compact&theme=swift)](https://github.com/cyl0424/github-readme-stats) -->
