@@ -12,11 +12,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
 ## GitHub Stats
-![Chu Yulim's GitHub stats](https://github-readme-stats.vercel.app/api?username=cyl0424&show_icons=true&theme=graywhite&count_private=true)
-<br>
-
-## Used Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cyl0424&layout=compact&theme=graywhite)](https://gitHub.com/cyl0424)
+![Chu Yulim's GitHub stats](https://github-readme-stats.vercel.app/api?username=cyl0424&show_icons=true&theme=material-palenight&count_private=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cyl0424&layout=compact&theme=material-palenight&hide=html,Cython&langs_count=7)](https://gitHub.com/cyl0424)
 <br>
 
 ## BOJ
