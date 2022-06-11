@@ -17,4 +17,7 @@ Here are some ideas to get you started:
 
 ## BOJ
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=cyl0424)](https://solved.ac/cyl0424/)
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cyl0424&layout=compact&theme=swift)](https://github.com/cyl0424/github-readme-stats) -->
+<br>
+
+## Used Languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cyl0424&layout=compact&theme=swift)](https://github.com/cyl0424/github-readme-stats)
