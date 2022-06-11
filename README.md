@@ -12,12 +12,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
 ## GitHub Stats
-![Chu Yulim's GitHub stats](https://github-readme-stats.vercel.app/api?username=cyl0424&show_icons=true&theme=swift&count_private=true)
+![Chu Yulim's GitHub stats](https://github-readme-stats.vercel.app/api?username=cyl0424&show_icons=true&theme=graywhite&count_private=true)
+<br>
+
+## Used Languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cyl0424&layout=compact&theme=graywhite)](https://gitHub.com/cyl0424)
 <br>
 
 ## BOJ
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=cyl0424)](https://solved.ac/cyl0424/)
-<br>
-
-## Used Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cyl0424&layout=compact&theme=swift)](https://gitHub.com/cyl0424)
