@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 <br>
 
 ## Used Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cyl0424&layout=compact&theme=swift)](https://github.com/cyl0424/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cyl0424&layout=compact&theme=swift)]
