@@ -11,8 +11,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
-## GitHub Stats
+<!-- ## GitHub Stats
 ![Chu Yulim's GitHub stats](https://github-readme-stats.vercel.app/api?username=cyl0424&show_icons=true&theme=material-palenight&count_private=true)
 
 ## BOJ
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=cyl0424)](https://solved.ac/cyl0424/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=cyl0424)](https://solved.ac/cyl0424/) -->
